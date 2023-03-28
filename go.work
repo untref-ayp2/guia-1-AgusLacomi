@@ -4,5 +4,6 @@ use (
 	./00-mediciones/busquedas
 	./00-mediciones/main
 	./00-mediciones/utiles
+	./00-mediciones/ordenamiento
 	./01-subsumamax
 )
